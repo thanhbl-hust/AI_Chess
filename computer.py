@@ -448,15 +448,3 @@ class Computer:
                 print(fen)
                 print(len(self.memories))
                 return move[i][1]
-
-
-
-
-
-
-
-
-
-
-
-

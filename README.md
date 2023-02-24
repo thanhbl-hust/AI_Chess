@@ -15,6 +15,4 @@ Project kiểm tra ứng dụng của ANN trong việc xây dựng một chươn
 * Clone source code về và cài đặt các thư viện được trình bày ở trên
 * Thực thi file `main.py`
 ### Thông tin liên lạc:
-* Email: anh.nh204511@gmail.com
-
-
+* Email: anh.nh204511@gmail.com 

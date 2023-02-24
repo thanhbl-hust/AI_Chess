@@ -8,6 +8,3 @@ class Theme:
         self.bg = Color(light_bg, dark_bg)
         self.trace = Color(light_trace, dark_trace)
         self.move = Color(light_moves, dark_moves)
-    
-    
-    

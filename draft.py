@@ -82,8 +82,3 @@ print(engine.piece_eval(2, board.piece_at(2)))
 #   return score
 
 # evaluate_pawn_structure(board)
-
-
-
-
-

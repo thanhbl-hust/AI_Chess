@@ -163,5 +163,3 @@ class Game:
     
     def set_hover(self, motion):
         self.hovered_sqr = (motion[0] // SQSIZE, motion[1] // SQSIZE)
-        
-                    

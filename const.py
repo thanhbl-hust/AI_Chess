@@ -39,8 +39,3 @@ class Const:
     
     def posToindex(pos):
         return pos[0] + (7 - pos[1])*8
-    
-    
-    
-
-
